@@ -1,0 +1,20 @@
+{
+  "name": "ob_jsbasico",
+  "version": "1.0.0",
+  "description": "ejercicio 1",
+  "main": "index.js",
+  "scripts": {
+    "start":"node ejercicio01.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raltow/OB_JsBasico.git"
+  },
+  "author": "raltow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raltow/OB_JsBasico/issues"
+  },
+  "homepage": "https://github.com/raltow/OB_JsBasico#readme"
+}
