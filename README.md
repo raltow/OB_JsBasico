@@ -90,3 +90,13 @@ Crea un archivo JS que contenga las siguientes líneas
 - Una nueva lista que concatene la lista de directores y la lista de los títulos (utilizando concat)
 
 - Una nueva lista que concatene la lista de directores y la lista de los títulos (utilizando el factor de propagación)
+
+t07
+
+Crea un archivo llamado conjuntos.js que contenga las siguientes líneas
+
+- Un nuevo Set con los nombres de tu familia
+
+- Modifica el Set original añadiendo tu nombre (duplicado) (debería darte lo mismo)
+
+- Modifica el Set original añadiendo el nombre "Javascript" (ya que empieza a formar parte de tu vida ;)
